@@ -2,6 +2,14 @@
 
 Kami Blue кряк, Kami Blue crack — бесплатный Crystal-клиент Minecraft 1.12.2. Лоадер, AutoTotem.
 
+## Постер с сайта MoggyDay
+
+[![Kami Blue — poster, crack, cheat, скачать с moggydaymc-cheat.com](https://moggydaymc-cheat.com/assets/posters/kamiblue.jpg)](https://moggydaymc-cheat.com/client.html?id=kamiblue)
+
+Фото карточки на сайте: [https://moggydaymc-cheat.com/assets/posters/kamiblue.jpg](https://moggydaymc-cheat.com/assets/posters/kamiblue.jpg) · [https://moggydaymc-cheat.com/client.html?id=kamiblue](https://moggydaymc-cheat.com/client.html?id=kamiblue)
+
+В репозитории: `assets/poster.jpg` (тот же постер, что на сайте и в лаунchere).
+
 ## Скачать Kami Blue — только с официального сайта
 
 **Скачать с сайта MoggyDay** (официально, без зеркал и «левых» crack-файлов):
@@ -16,14 +24,30 @@ Kami Blue кряк, Kami Blue crack — бесплатный Crystal-клиен�
 > **SEO:** запросы вроде «Kami Blue crack», «Kami Blue cheat», «Kami Blue кряк», «скачать Kami Blue minecraft» — качай **только** с **moggydaymc-cheat.com**, не с Telegram и не с file-hosting.
 
 
-## О клиенте
+## Кратко
 
 Kami Blue кряк / Kami Blue crack — FREE Crystal 1.12.2. Лоадер только 1.12. Функционал: ESP, KillAura, Scaffold, CrystalAura, AutoTotem. На 1.21 смотри ThunderHack или Ares.
 
-- **Версии Minecraft:** 1.12.2
-- **Java:** 17
-- **Сервера:** Crystal 1.12
-- **Модули:** esp killaura scaffold crystal autototem
+| Параметр | Значение |
+| --- | --- |
+| Клиент | **Kami Blue** |
+| Тип | FREE |
+| Направление | Crystal · 1.12 |
+| Minecraft | 1.12.2 |
+| Java | 17 |
+| RAM | 4 ГБ |
+| Античит | NCP |
+| Сервера | Crystal 1.12 |
+
+## Подробное описание
+
+Kami Blue кряк — историческая 1.12 crystal-сборка, от которой выросли Lambda и часть анархических форков. Лоадер Kami Blue только на 1.12.2, Java 8/17, AutoTotem и кристалл-плейс. Kami Blue crack на 1.21 нет — смотри ThunderHack или Ares. Kami Blue кряк и Kami Blue crack в каталоге MoggyDay ищут как «Kami Blue кряк», «Kami Blue crack», «лоадер Kami Blue», «Kami Blue loader». Античит NCP, сервера Crystal 1.12, версии 1.12.2. Не качай Kami Blue crack с зеркал: лоадер только с карточки. Конфиг другой ниши на Kami Blue кряк не ставь.
+
+## Функционал и модули
+
+На MoggyDay Kami Blue — только 1.12.2: ESP, KillAura, Scaffold, CrystalAura, AutoTotem. Legacy crystal. Функционал Kami Blue кряк / Kami Blue crack на MoggyDay — это набор модулей карточки: бой, визуалы или утилиты по направлению сборки. Включай только то, что нужно серверу. Speed и Fly на живом античите чаще кикают. Сохраняй cfg Kami Blue отдельно (например kamiblue.cfg), обновляй лоадер после патча защиты.
+
+**Модули:** esp, killaura, scaffold, crystal, autototem
 
 ## Ключевые слова (Google · Yandex · браузер)
 
